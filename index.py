@@ -13,7 +13,7 @@ class Index:
     self.render = web.template.render('templates/') #folder templates are saved in
 
   def GET(self, title):
-    return self.render.roundtable("Website created by Dor Rondel and Shaheen Bharwani for MITx Blueprint 2014") #Text added into HTML code
+    return self.render.uniTable("Website created by Dor Rondel and Shaheen Bharwani for MITx Blueprint 2014") #Text added into HTML code
 
   def POST(self, name):
     return "post"
