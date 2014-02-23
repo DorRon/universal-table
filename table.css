@@ -1,0 +1,30 @@
+.top {
+  color: #D7E0E6;
+  background-color: #FFFFFF;
+  height:240px;
+  width:1500px;
+}
+
+#header {
+  color:brown;
+  text-align:center;
+  font-size:60px;
+  padding:2px;
+}
+
+
+.column {
+  color: #D7E0E6;
+  background-color: #FFFFFF;
+  height: 500px;
+  width:260px;
+
+}
+#rect {
+  height: 225px;
+  width: 260px;
+  float: center;
+  text-align: center;
+  color: brown;
+
+}
